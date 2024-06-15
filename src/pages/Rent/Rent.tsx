@@ -105,8 +105,8 @@ const TransactionSetup: React.FC = () => {
       key: "memberName",
     },
     {
-      title: "Find",
-      dataIndex: "find",
+      title: "Fine",
+      dataIndex: "fine",
       key: "memberName",
     },
     {
